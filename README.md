@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Md.Miraj Hossain</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 
